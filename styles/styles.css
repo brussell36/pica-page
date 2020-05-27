@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: #303960;
+  color: #f8b24f;
+}
+
+img {
+  width: 25%;
+}
+
+h1 {
+  margin: 50px;
+  font-size: 5em;
+}
+
+p {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+ul {
+  font-size: 2em;
+}
